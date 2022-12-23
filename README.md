@@ -10,6 +10,7 @@ Player Two is controlled utilizing the arrow keys in the same manner: left and r
 # Known Issues
 - Currently you can jump as often as you'd like
 - There are no screen bounds so you're free to walk off either side of the map as well as jump out of the top of it
+- There seems to be an issue when the second player attacks the first that causes the sprites to disappear, at least in the live version of the game publised on GH Pages currently
 
 # This is the inital commit
 
